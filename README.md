@@ -9,11 +9,11 @@
 
 - Genetic algorithm:
 
-![](https://raw.githubusercontent.com/SerenaTradingResearch/grad-free-optim/test/GradFreeOptim.png)
+![](https://raw.githubusercontent.com/SerenaTradingResearch/grad-free-optim/main/test/GradFreeOptim.png)
 
 - AdamW (for comparison):
 
-![](https://raw.githubusercontent.com/SerenaTradingResearch/grad-free-optim/test/train_model.png)
+![](https://raw.githubusercontent.com/SerenaTradingResearch/grad-free-optim/main/test/train_model.png)
 
 ## Usage
 
