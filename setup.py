@@ -5,13 +5,13 @@ with open("README.md", encoding="utf-8") as f:
 
 setup(
     name="grad-free-optim",
-    version="0.0.2",
+    version="0.0.3",
     author="Ricky Ding",
     author_email="e0134117@u.nus.edu",
     description="Gradient-free optimization of neural network parameters.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/SerenaTradingResearch/grad-free-optim",
+    url="https://github.com/NeuroAI-Research/grad-free-optim",
     packages=find_packages(),
     install_requires=open("requirements.txt").read().splitlines(),
     python_requires=">=3.8",
